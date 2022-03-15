@@ -65,6 +65,10 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 npm run lint
 ```
 
+## Related projects
+
+- [vite-vue-tailwindcss-ts](https://github.com/initred/vite-vue-tailwindcss-ts)
+
 ## Try it now!
 
 ### GitHub Template
